@@ -14,5 +14,3 @@ This project demonstrates a basic shopping experience where users can browse pro
 - ✅ Simple checkout simulation  
 
 ---
-
-## 📂 Project Structure
